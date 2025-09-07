@@ -1,10 +1,25 @@
-# Hi 👋, I'm Az Zahra Nabila
+# Hi, Welcome to My Profile 👋
 
-💻 Saat ini saya sedang mengajar/mempelajari pemrograman mobile:
+## 📖 Tentang Saya
+Halo, saya Az Zahra Nabila, seorang mahasiswa aktif di UIN MAULANA MALIK IBRAHIM MALANG.  
+Saat ini saya sedang belajar **Pemrograman Mobile**.
 
-| No | Minggu ke | Praktikum ke | Topik | Modul |  Laporan |
-|----|-----------|--------------|-------|-------|------------------|
-| 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](#) | [https://drive.google.com/file/d/1Vz683QI86orNv0Dm4qsHMp-077X503To/view?usp=sharing](#) |
-| 2  | 01        | 01           | Widget Row dan Column | [Modul 02](#) | [https://drive.google.com/file/d/1MVFfIZQKdGzikosaccc58_sohwGusSPh/view?usp=sharing](#) |
-| 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](#) | [Template laporan](#) |
-| 4  | 02        | 02           | Widget Flexible dan Expanded | [Modul 04](#) | [Template laporan](#) |
+---
+
+## 🆔 Identitas
+- **Nama**  : Az Zahra Nabila 
+- **NIM**   : 230605110012  
+- **Kelas** : A  
+
+---
+
+## 📚 Mata Kuliah yang Sedang Dipelajari
+
+| No | Tanggal         | Topik                                           | Laporan            | Repository  |
+|----|-----------------|-------------------------------------------------|--------------------|-------------|
+| 1  | 5 September 2025 | Pengenalan Mobile Programming dan Setup         | [Laporan 1](#)     | [Modul 1](#) |
+| 2  | 12 September 2025 | Widget Row dan Column                          | [Laporan 2](#)     | [Modul 2](#) |
+| 3  | 19 September 2025 | Pengaturan Layout Row dan Column di Flutter    | [Laporan 3](#)     | [Modul 3](#) |
+| 4  | 26 September 2025 | Widget Flexible dan Expanded                   | [Laporan 4](#)     | [Modul 4](#) |
+
+---
