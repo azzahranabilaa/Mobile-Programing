@@ -18,6 +18,7 @@ Halo, saya Az Zahra Nabila, seorang mahasiswa aktif di UIN MAULANA MALIK IBRAHIM
 | 2  | 1 | 1 | Widget Row dan Column                          | [Laporan 2](https://drive.google.com/file/d/1MVFfIZQKdGzikosaccc58_sohwGusSPh/view?usp=sharing "Laporan 2")    | [Modul 2](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-2 "Modul 2") |
 | 3  | 2 | 2 | Pengaturan Layout Row dan Column di Flutter    | [Laporan 3](https://drive.google.com/file/d/1vA5NynO0ksjTQ1P6MRrm2iIsoPu5SPHM/view?usp=drive_link) | [Modul 3](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-3) |
 | 4  | 2 | 2 | Widget Flexible dan Expanded                   | [Laporan 4](https://drive.google.com/file/d/1o26KoxV88VDoQ4s5CkzgnBV9G2lA_SET/view?usp=drive_link)     | [Modul 4](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-4) |
-
+| 5  | 3 | 3 | Widget SizedBox, Spacer, dan Card    | [Laporan 5](https://drive.google.com/file/d/1XtI6wmC-K_e0_nvQkOFuAyAh0IzGopfJ/view?usp=sharing) | [Modul 5](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-5) |
+| 6  | 3 | 3 | Widget Flexible dan Expanded                   | [Laporan 6]()     | [Modul 6]() |
 ---
 ---
