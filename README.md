@@ -20,5 +20,7 @@ Halo, saya Az Zahra Nabila, seorang mahasiswa aktif di UIN MAULANA MALIK IBRAHIM
 | 4  | 2 | 2 | Widget Flexible dan Expanded                   | [Laporan 4](https://drive.google.com/file/d/1o26KoxV88VDoQ4s5CkzgnBV9G2lA_SET/view?usp=drive_link)     | [Modul 4](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-4) |
 | 5  | 3 | 3 | Widget SizedBox, Spacer, dan Card    | [Laporan 5](https://drive.google.com/file/d/1XtI6wmC-K_e0_nvQkOFuAyAh0IzGopfJ/view?usp=sharing) | [Modul 5](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-5) |
 | 6  | 3 | 3 | Widget GridView dan ListView                | [Laporan 6](https://drive.google.com/file/d/17brluEW0PCYGkZo_sgabOsfE2NVQBNZw/view?usp=sharing)     | [Modul 6](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-6) |
+| 7 | 4 | 4 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route   | [Laporan 7](https://drive.google.com/file/d/17TuQl0iz9gwbPCjPwHrwhYk8_ErP0tD1/view?usp=sharing) | [Modul 7](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-7) |
+| 8  | 4 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route               | [Laporan 8](https://drive.google.com/file/d/1odXfG2j6oFxfI5G2qwxnXuNonx1LXKaH/view?usp=sharing)     | [Modul 8](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-8) |
 ---
 ---
