@@ -22,5 +22,10 @@ Halo, saya Az Zahra Nabila, seorang mahasiswa aktif di UIN MAULANA MALIK IBRAHIM
 | 6  | 3 | 3 | Widget GridView dan ListView                | [Laporan 6](https://drive.google.com/file/d/17brluEW0PCYGkZo_sgabOsfE2NVQBNZw/view?usp=sharing)     | [Modul 6](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-6) |
 | 7 | 4 | 4 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route   | [Laporan 7](https://drive.google.com/file/d/17TuQl0iz9gwbPCjPwHrwhYk8_ErP0tD1/view?usp=sharing) | [Modul 7](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-7) |
 | 8  | 4 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route               | [Laporan 8](https://drive.google.com/file/d/1odXfG2j6oFxfI5G2qwxnXuNonx1LXKaH/view?usp=sharing)     | [Modul 8](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-8) |
+| 8  | 4 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route               | [Laporan 9]()     | [Modul 9](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-9) |
+ | [Laporan 10]()     | [Modul 9]() |
+  | [Laporan 11]()     | [Modul 11]() |
+   | [Laporan 12]()     | [Modul 12]() |
+    | [Laporan 13]()     | [Modul 13]() |
 ---
 ---
