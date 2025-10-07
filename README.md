@@ -24,5 +24,6 @@ Halo, saya Az Zahra Nabila, seorang mahasiswa aktif di UIN MAULANA MALIK IBRAHIM
 | 8  | 4 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route               | [Laporan 8](https://drive.google.com/file/d/1odXfG2j6oFxfI5G2qwxnXuNonx1LXKaH/view?usp=sharing)     | [Modul 8](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-8) |
 | 8  | 4 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route               | [Laporan 8](https://drive.google.com/file/d/1odXfG2j6oFxfI5G2qwxnXuNonx1LXKaH/view?usp=drive_link)     | [Modul 8](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-8) |
 | 9  | 5 | 5 | StatefulWidget              | [Laporan 9](https://drive.google.com/file/d/1A5Zz8FVtmDlWGqBkq0EArT6-AhkOEuqq/view?usp=drive_link)     | [Modul 9](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-9) |
+| 10 | 6 | 6 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter           | [Laporan 10]()     | [Modul 10](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-10) |
 ---
 ---
