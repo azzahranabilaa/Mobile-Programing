@@ -27,5 +27,6 @@ Halo, saya Az Zahra Nabila, seorang mahasiswa aktif di UIN MAULANA MALIK IBRAHIM
 | 10 | 6 | 6 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter           | [Laporan 10](https://drive.google.com/file/d/1NapRt8cZ9pNwwZTrLvvMowjhza6OKyGi/view?usp=drive_link)     | [Modul 10](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-10) |
 | 11 | 7 | 7 | Manajemen State dengan GetX        | [Laporan 11](https://drive.google.com/file/d/1BDPxQdXdbs4di2zKvdo5WsdZz5qrMrLf/view?usp=drive_link)     | [Modul 11](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-11) |
 | 12 | 8 | 8 | Akses Lokasi dengan GPS di Flutter       | [Laporan 12](https://drive.google.com/file/d/1wqkrImjvwFXAPrOXSOj40E0avNuQgxmv/view?usp=sharing)     | [Modul 11](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-12) |
+| 13 | 9 | 9 | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API       | [Laporan 13](https://drive.google.com/file/d/1iV0VhULtbyTDfltBczD9ao6wGe_Ug1_g/view?usp=sharing)     | [Modul 11](https://github.com/azzahranabilaa/PRAKTIKUM-MOBILE-PROGRAMING-BAB-13) |
 ---
 ---
